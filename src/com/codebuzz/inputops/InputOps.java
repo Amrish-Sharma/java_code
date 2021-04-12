@@ -16,7 +16,7 @@ public class InputOps {
         Scanner sc=new Scanner(System.in);
         //Integer text=sc.nextInt();
 
-        InputOps inputOps=new InputOps(text);
+        InputOps inputOps=new InputOps();
 
         //System.out.println("Hello: ",a);
 
